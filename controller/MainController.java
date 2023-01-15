@@ -1,4 +1,4 @@
-/**
+package controller; /**
  * Sample Skeleton for 'main.fxml' Controller Class
  */
 
